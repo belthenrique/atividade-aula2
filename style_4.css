@@ -1,0 +1,94 @@
+#divA{
+    background-color: rgb(110, 92, 77);
+    height: 44vh;
+    width: 70vw;
+    border-style: solid;
+    border-width: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#divB{
+    background-color: white;
+    height: 180px;
+    width: 80%;
+    border-style: solid;
+    border-width: 10px;
+    border-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: arial;
+    color: blue;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#divC{
+    padding: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#divD{
+    background-color: blue;
+    height: 40px;
+    width: 75%;
+
+}
+
+#divE{
+    background-color: purple;
+    height: 40px;
+    width: 40%;
+
+}
+
+#divF{
+    background-color: green;
+    height: 40px;
+    width: 50%;
+
+}
+
+#divG{
+    background-color: yellow;
+    height: 40px;
+    width: 60%;
+
+}
+
+footer{
+    padding-bottom: 0px;
+}
+
+#divH{
+    background-color: red;
+    height: 50px;
+    width: 40%;
+    float: left;
+        padding-left: 0px;
+    padding-right: 0px;
+
+}
+
+#divI{
+    background-color: seagreen;
+    height: 50px;
+    width: 20%;
+    float: left;
+
+}
+
+#divJ{
+    background-color: lime;
+    height: 50px;
+    width: 40%;
+    float: left;
+
+}
